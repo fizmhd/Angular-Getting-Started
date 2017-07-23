@@ -5,3 +5,4 @@ src/app/**/*.js.map
 node_modules
 src/main.js
 src/main.js.map
+npm-debug.log
